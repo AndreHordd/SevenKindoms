@@ -1,0 +1,48 @@
+
+background.png
+size: 1024, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+BG Image
+  rotate: false
+  xy: 448, 0
+  size: 384, 128
+  orig: 384, 128
+  offset: 0, 0
+  index: -1
+Big Clouds
+  rotate: false
+  xy: 0, 27
+  size: 448, 101
+  orig: 448, 101
+  offset: 0, 0
+  index: -1
+Water Reflect Big 01
+  rotate: false
+  xy: 0, 7
+  size: 170, 10
+  orig: 170, 10
+  offset: 0, 0
+  index: -1
+Water Reflect Big 02
+  rotate: false
+  xy: 0, 17
+  size: 170, 10
+  orig: 170, 10
+  offset: 0, 0
+  index: -1
+Water Reflect Big 03
+  rotate: false
+  xy: 170, 17
+  size: 170, 10
+  orig: 170, 10
+  offset: 0, 0
+  index: -1
+Water Reflect Big 04
+  rotate: false
+  xy: 832, 118
+  size: 170, 10
+  orig: 170, 10
+  offset: 0, 0
+  index: -1

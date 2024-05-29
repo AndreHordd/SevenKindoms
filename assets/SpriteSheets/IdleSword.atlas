@@ -1,0 +1,41 @@
+
+IdleSword.png
+size: 512, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+IdleSword-01
+  rotate: false
+  xy: 2, 4
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+IdleSword-02
+  rotate: false
+  xy: 68, 4
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+IdleSword-03
+  rotate: false
+  xy: 134, 4
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+IdleSword-04
+  rotate: false
+  xy: 200, 4
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+IdleSword-05
+  rotate: false
+  xy: 266, 4
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
